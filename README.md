@@ -8,7 +8,7 @@ collection of "html over the wire" libraries
 * https://github.com/choojs/nanomorph
 * https://github.com/Matt-Esch/virtual-dom
 * https://github.com/alpinejs/alpine/blob/main/packages/morph/src/morph.js
-* https://turbo.hotwired.dev/
+* https://turbo.hotwired.dev/ (diff manually)
 
 ## event handling
 
