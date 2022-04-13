@@ -19,6 +19,7 @@ collection of "html over the wire" libraries
 * https://github.com/marko-js-archive/marko-widgets/blob/master/docs/get-started.md
 * https://github.com/catberry/catberry
 * https://github.com/stimulusreflex/cable_ready
+* https://github.com/bplok20010/eval5/issues/15
 
 ## server centric
 
