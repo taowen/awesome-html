@@ -12,8 +12,17 @@ collection of "html over the wire" libraries to enable [HATEOAS](https://en.wiki
 
 ## html diff (native)
 
+react native based
+
 * https://hyperview.org/
 * https://meliorence.github.io/react-native-render-html/
+
+react native itself
+
+* ios: https://github.com/facebook/react-native/blob/main/React/Base/RCTRootView.m
+* android: https://github.com/facebook/react-native/blob/8adedfeb1581760629edfa48fb2e9b9ffe145bff/ReactAndroid/src/main/java/com/facebook/react/ReactRootView.java
+* windows: https://github.com/microsoft/react-native-windows/blob/59df2c597641c9beee3a4eafcb3b880f5e040f6e/vnext/Microsoft.ReactNative/ReactRootView.cpp
+* macos: https://github.com/microsoft/react-native-macos/blob/main/React/Base/RCTRootView.m
 
 ## event handling
 
