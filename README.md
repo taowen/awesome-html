@@ -10,6 +10,11 @@ collection of "html over the wire" libraries to enable [HATEOAS](https://en.wiki
 * https://github.com/alpinejs/alpine/blob/main/packages/morph/src/morph.js
 * https://turbo.hotwired.dev/ (diff manually)
 
+## html diff (native)
+
+* https://hyperview.org/
+* https://meliorence.github.io/react-native-render-html/
+
 ## event handling
 
 * https://stimulus.hotwired.dev/
@@ -19,6 +24,8 @@ collection of "html over the wire" libraries to enable [HATEOAS](https://en.wiki
 * https://github.com/marko-js-archive/marko-widgets/blob/master/docs/get-started.md
 * https://github.com/catberry/catberry
 * https://github.com/stimulusreflex/cable_ready
+* https://unpoly.com/
+* https://kasta-ua.github.io/twinspark-js/
 * https://github.com/bplok20010/eval5/issues/15
 
 ## server centric
