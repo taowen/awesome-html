@@ -1,6 +1,6 @@
 # awesome-html
 
-collection of "html over the wire" libraries
+collection of "html over the wire" libraries to enable [HATEOAS](https://en.wikipedia.org/wiki/HATEOAS)
 
 ## html diff
 
