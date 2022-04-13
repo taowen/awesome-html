@@ -52,3 +52,5 @@ This is the power of UI as "Interface". Html is a special UI document format, wh
 
 * Html should support incremental update (html over the wire, morph)
 * Html should provide native client user experience (toast, flash, navigation, client side animation...)
+
+The problem is, "no javascript" should not be goal from the beginning. No javascript will leads to badly implemented javascript like thing. The focus should be "make html great again", should not be "making javascript obsolete".
