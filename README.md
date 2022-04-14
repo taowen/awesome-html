@@ -10,6 +10,7 @@ collection of "html over the wire" libraries to enable [HATEOAS](https://en.wiki
 * https://github.com/alpinejs/alpine/blob/main/packages/morph/src/morph.js
 * https://turbo.hotwired.dev/ (diff manually)
 * https://github.com/turbolinks/turbolinks
+* https://github.com/swup/swup
 
 ## html diff (native)
 
