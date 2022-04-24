@@ -11,6 +11,7 @@ collection of "html over the wire" libraries to enable [HATEOAS](https://en.wiki
 * https://turbo.hotwired.dev/ (diff manually)
 * https://github.com/turbolinks/turbolinks
 * https://github.com/swup/swup
+* https://github.com/tbranyen/diffhtml
 
 ## html diff (native)
 
