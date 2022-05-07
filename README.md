@@ -49,11 +49,11 @@ react native itself
 
 API stands for "Application Programming Interface", it is a kind of interface. UI stands for "User Interface", it is also a kind of interface. If we have code running in client and server, the two piece of code talks to each other with API. If we have code running in the server which delivers UI to end user, there is no API in between. This way (also knowns as [HATEOAS](https://en.wikipedia.org/wiki/HATEOAS)) we eliminate the cost to maintain API compatibility with older versions of client. The reason is simple, UI is for user, user is human, human is intelligent who can update himself/herself automatically without re-wiring.
 
-Integrate two piece of code via API is troublesome. It is always easier to have two piece of code provide its own UI and just concat the two UI blocks together as big UI. This way, they do not need to understand the API of each other, treating the peer as a black box. When requirement change, the integrating interface remain unchanged.
+Integrate two piece of code via API is troublesome. It is always easier to have two piece of code provide its own UI and just concat the two UI blocks together as bigger UI. This way, they do not need to understand the API of each other, treating the peer as a black box. When requirement change, the integrating interface remain unchanged.
 
 This is the power of UI as "Interface". Html is a special UI document format, which can be server generated, and serialized to render on any private platform (iOS, Android, MiniProgram). The libraries above want to "make html great again" by fixing its problem:
 
 * Html should support incremental update (html over the wire, morph)
 * Html should provide native client user experience (toast, flash, navigation, client side animation...)
 
-However, they all advertise themself as "no javascript" solution. No javascript will leads to badly implemented javascript like thing. The focus should be "make html great again", should not be "making javascript obsolete".
+However, they all advertise themself as "no javascript" solution. No javascript will leads to badly implemented javascript like thing. The focus should be "make html great again", should not be "make javascript obsolete".
