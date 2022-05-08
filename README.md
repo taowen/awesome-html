@@ -29,6 +29,7 @@ react native itself
 
 ## event handling
 
+* https://mavo.io/
 * https://github.com/vuejs/petite-vue
 * https://stimulus.hotwired.dev/
 * https://htmx.org/
