@@ -47,6 +47,13 @@ react native itself
 * https://github.com/phoenixframework/phoenix_live_view
 * https://github.com/beenotung/ts-liveview
 
+## reflection
+
+* https://williamkennedy.ninja/javascript/2022/05/03/in-defence-of-the-single-page-application/
+* https://www.david-dahan.com/blog/10-reasons-mvc-frameworks-arent-dinosaurs-but-sharks
+* https://edofic.com/posts/2022-01-28-low-js/
+* https://www.smashingmagazine.com/2022/05/you-dont-need-ui-framework
+
 # The Power of UI as "Interface"
 
 API stands for "Application Programming Interface", it is a kind of interface. UI stands for "User Interface", it is also a kind of interface. If we have code running in client and server, the two piece of code talks to each other with API. If we have code running in the server which delivers UI to end user, there is no API in between. This way (also knowns as [HATEOAS](https://en.wikipedia.org/wiki/HATEOAS)) we eliminate the cost to maintain API compatibility with older versions of client. The reason is simple, UI is for user, user is human, human is intelligent who can update himself/herself automatically without re-wiring.
