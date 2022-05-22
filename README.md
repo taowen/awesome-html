@@ -53,6 +53,7 @@ react native itself
 * https://www.david-dahan.com/blog/10-reasons-mvc-frameworks-arent-dinosaurs-but-sharks
 * https://edofic.com/posts/2022-01-28-low-js/
 * https://www.smashingmagazine.com/2022/05/you-dont-need-ui-framework
+* https://nolanlawson.com/2022/05/21/the-balance-has-shifted-away-from-spas/
 
 # The Power of UI as "Interface"
 
