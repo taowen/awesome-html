@@ -47,13 +47,17 @@ react native itself
 * https://github.com/phoenixframework/phoenix_live_view
 * https://github.com/beenotung/ts-liveview
 
-## reflection
+## Maybe you don’t need that SPA
 
 * https://williamkennedy.ninja/javascript/2022/05/03/in-defence-of-the-single-page-application/
 * https://www.david-dahan.com/blog/10-reasons-mvc-frameworks-arent-dinosaurs-but-sharks
 * https://edofic.com/posts/2022-01-28-low-js/
 * https://www.smashingmagazine.com/2022/05/you-dont-need-ui-framework
 * https://nolanlawson.com/2022/05/21/the-balance-has-shifted-away-from-spas/
+* https://dev.to/tigt/routing-im-not-smart-enough-for-a-spa-5hki
+* https://medium.com/@mlrawlings/maybe-you-dont-need-that-spa-f2c659bc7fec
+* https://adactio.com/journal/7706
+* https://thatemil.com/blog/2013/07/02/progressive-enhancement-still-not-dead/
 
 # The Power of UI as "Interface"
 
