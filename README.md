@@ -15,6 +15,9 @@ collection of "html over the wire" libraries to enable [HATEOAS](https://en.wiki
 
 ## html diff (native)
 
+* https://github.com/Microsoft/AdaptiveCards
+* https://github.com/jasonelle/jasonelle/
+
 react native based
 
 * https://hyperview.org/
