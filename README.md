@@ -58,6 +58,8 @@ react native itself
 * https://medium.com/@mlrawlings/maybe-you-dont-need-that-spa-f2c659bc7fec
 * https://adactio.com/journal/7706
 * https://thatemil.com/blog/2013/07/02/progressive-enhancement-still-not-dead/
+* https://unixsheikh.com/articles/is-the-madness-ever-going-to-end.html
+* https://foo.zone/gemfeed/2021-09-12-keep-it-simple-and-stupid.html
 
 # The Power of UI as "Interface"
 
