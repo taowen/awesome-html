@@ -57,6 +57,7 @@ react native itself
 * https://edofic.com/posts/2022-01-28-low-js/
 * https://www.smashingmagazine.com/2022/05/you-dont-need-ui-framework
 * https://nolanlawson.com/2022/05/21/the-balance-has-shifted-away-from-spas/
+* https://nolanlawson.com/2022/05/25/more-thoughts-on-spas/
 * https://dev.to/tigt/routing-im-not-smart-enough-for-a-spa-5hki
 * https://medium.com/@mlrawlings/maybe-you-dont-need-that-spa-f2c659bc7fec
 * https://adactio.com/journal/7706
